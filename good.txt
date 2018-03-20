@@ -5,3 +5,7 @@ wawawawawa
 daddd
 创建分支f1 
 
+<<<<<<< HEAD
+=======
+新增了cc.txt文件
+>>>>>>> f1
